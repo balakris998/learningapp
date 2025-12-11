@@ -1,0 +1,7 @@
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\learningapp.exe
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\appsettings.Development.json
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\appsettings.json
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\learningapp.dll
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\learningapp.deps.json
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\az_labs\02. webapp labs\01. app_deploy_to_webapp\learningapp\bin\Publish\learningapp.pdb
